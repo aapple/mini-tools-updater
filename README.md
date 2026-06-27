@@ -102,7 +102,7 @@
 
 ### 下载预构建版本
 
-前往 [Releases](https://github.com/aapple/mini-tools/releases/latest) 页面下载最新版本的 `.dmg` 安装包，支持 Intel 和 Apple Silicon Mac。
+前往 [Releases](https://github.com/aapple/mini-tools-updater/releases/latest) 页面下载最新版本的 `.dmg` 安装包，支持 Intel 和 Apple Silicon Mac。
 
 ### macOS 首次启动
 
